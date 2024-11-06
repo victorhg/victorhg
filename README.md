@@ -28,7 +28,7 @@ I have worked in many roles within the software industry. I've delivered code in
 
 At the moment I'm pursuing a technical masters while still mentoring entrepreneurs as they create new startups.
 
-## [victorhg.com](https://victorhg.com/blog)
+## ⛰️ [victorhg.com](https://victorhg.com/blog)
 
 I write a lot about what I'm studying at the moment and also about the latest books I've read (In brazilian portuguese and english):
 
